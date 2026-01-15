@@ -28,6 +28,7 @@ https://beyondparallel.csis.org/creeping-sovereignty-what-is-china-building-in-t
 https://beyondparallel.csis.org/progress-at-the-much-delayed-new-yalu-river-bridge
 https://beyondparallel.csis.org/progress-at-the-much-delayed-new-yalu-river-bridge/
 https://features.csis.org/chinapower/china-taiwan-series
+https://features.csis.org/hiddenreach/china-space-diplomacy-global-south
 https://foreignpolicy.com/2025/12/19/trump-western-hemisphere-pivot-nss
 https://www.americasquarterly.org/article/a-roadmap-for-venezuelas-future-transition
 https://www.cfr.org/article/can-new-gang-suppression-force-bring-relief-haiti
@@ -45,6 +46,7 @@ https://www.cfr.org/blog/thailand-and-cambodia-head-back-battle-presaging-possib
 https://www.cfr.org/event/forecasting-humanitarian-risk-2026-conversation-david-miliband
 https://www.cfr.org/event/overcoming-culture-secrecy-can-united-states-kick-its-national-security-over-classification
 https://www.cfr.org/event/sudans-humanitarian-emergency
+https://www.cfr.org/event/young-professionals-briefing-state-us-defense-policy
 https://www.cfr.org/expert-brief/america-first-meets-national-security-and-defense-strategies
 https://www.cfr.org/expert-brief/bondi-beach-shooting-shows-isis-threat-australia-and-beyond
 https://www.cfr.org/expert-brief/great-aid-recession-2025s-humanitarian-crash-nine-charts
@@ -74,12 +76,14 @@ https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
 https://www.csis.org/analysis/chinas-third-policy-paper-latin-america-and-caribbean-expanding-influence-and-ambitions
 https://www.csis.org/analysis/chinese-energy-investments-southeast-asia
 https://www.csis.org/analysis/civil-takedowns-missing-legal-framework-cyber-disruption
+https://www.csis.org/analysis/costs-and-global-trade-offs-us-military-action-against-venezuela
 https://www.csis.org/analysis/credible-path-political-stability-indispensable-trumps-venezuela-oil-aspirations
 https://www.csis.org/analysis/disaster-risk-financing-fragile-contexts-syria-case-study
 https://www.csis.org/analysis/disaster-risk-financing-real-time-ghana-case-study
 https://www.csis.org/analysis/everything-connected
 https://www.csis.org/analysis/everything-old-new-again
 https://www.csis.org/analysis/experts-react-nss-and-washingtons-new-approach-western-hemisphere
+https://www.csis.org/analysis/fraud-frontlines-scam-centers-caught-cambodia-thailand-conflict
 https://www.csis.org/analysis/geopolitics-maduros-capture-chinas-future-latin-america-following-operation-absolute
 https://www.csis.org/analysis/ghost-busters-options-breaking-russias-shadow-fleet
 https://www.csis.org/analysis/golden-fleets-battleship-will-never-sail
@@ -97,6 +101,7 @@ https://www.csis.org/analysis/maduro-captured-what-comes-next-venezuela
 https://www.csis.org/analysis/maduro-raid-military-victory-no-viable-endgame
 https://www.csis.org/analysis/minerals-war-strategic-resources-and-foundations-us-defense-industrial-base
 https://www.csis.org/analysis/navigating-divide-why-us-navy-must-resume-fonops-indonesia
+https://www.csis.org/analysis/new-executive-order-ties-us-critical-minerals-security-global-partnerships
 https://www.csis.org/analysis/outlining-challenges-us-naval-shipbuilding
 https://www.csis.org/analysis/pactech-pulse-january-2026
 https://www.csis.org/analysis/partial-look-ahead
