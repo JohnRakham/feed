@@ -70,11 +70,13 @@ https://www.csis.org//analysis/stabilizing-cobalt-markets-price-floor-us-mineral
 https://www.csis.org//analysis/targeting-state-ai-laws-undermines-rather-advances-us-technology-leadership
 https://www.csis.org//analysis/what-does-development-finance-corporation-reauthorization-mean-energy
 https://www.csis.org//analysis/why-did-united-states-seize-venezuelan-oil-shipment
+https://www.csis.org/analysis/ai-and-global-food-security-focus-early-warning-systems
 https://www.csis.org/analysis/america-first-tech-stack-cannot-be-america-alone
 https://www.csis.org/analysis/are-us-operations-venezuela-blueprint-china-taiwan
 https://www.csis.org/analysis/back-play-us-india-nuclear-partnership-finds-new-opening
 https://www.csis.org/analysis/beyond-climate-policy-economy-wide-repercussions-eliminating-greenhouse-gas-reporting
 https://www.csis.org/analysis/breaking-debt-trap-why-spending-smarter-beats-spending-more
+https://www.csis.org/analysis/bright-shiny-objects
 https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
 https://www.csis.org/analysis/chinas-third-policy-paper-latin-america-and-caribbean-expanding-influence-and-ambitions
 https://www.csis.org/analysis/chinese-energy-investments-southeast-asia
@@ -88,7 +90,9 @@ https://www.csis.org/analysis/everything-old-new-again
 https://www.csis.org/analysis/experts-react-nss-and-washingtons-new-approach-western-hemisphere
 https://www.csis.org/analysis/exploring-new-math-puzzle-pjm-intervention
 https://www.csis.org/analysis/fraud-frontlines-scam-centers-caught-cambodia-thailand-conflict
+https://www.csis.org/analysis/future-who-and-how-united-states-can-shape-it
 https://www.csis.org/analysis/geopolitics-maduros-capture-chinas-future-latin-america-following-operation-absolute
+https://www.csis.org/analysis/geopolitics-maduros-capture-what-does-operation-absolute-resolve-mean-russia
 https://www.csis.org/analysis/ghost-busters-options-breaking-russias-shadow-fleet
 https://www.csis.org/analysis/golden-fleets-battleship-will-never-sail
 https://www.csis.org/analysis/greenland-rare-earths-and-arctic-security
@@ -127,6 +131,7 @@ https://www.csis.org/analysis/states-weekly-january-14-2026
 https://www.csis.org/analysis/states-weekly-january-7-2026
 https://www.csis.org/analysis/strengthening-national-security-resilience-japan
 https://www.csis.org/analysis/targeting-state-ai-laws-undermines-rather-advances-us-technology-leadership
+https://www.csis.org/analysis/tech-edge-living-playbook-americas-technology-long-game
 https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
 https://www.csis.org/analysis/trumps-greenland-ambition-about-us-power-not-alliances
 https://www.csis.org/analysis/understanding-global-south-perspectives-taiwan
