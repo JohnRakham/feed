@@ -75,6 +75,7 @@ https://www.csis.org//analysis/what-does-development-finance-corporation-reautho
 https://www.csis.org//analysis/why-did-united-states-seize-venezuelan-oil-shipment
 https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some
 https://www.csis.org/analysis/ai-and-global-food-security-focus-early-warning-systems
+https://www.csis.org/analysis/ai-and-grand-strategy-case-restraint
 https://www.csis.org/analysis/america-first-tech-stack-cannot-be-america-alone
 https://www.csis.org/analysis/are-us-operations-venezuela-blueprint-china-taiwan
 https://www.csis.org/analysis/back-play-us-india-nuclear-partnership-finds-new-opening
@@ -82,6 +83,7 @@ https://www.csis.org/analysis/beyond-climate-policy-economy-wide-repercussions-e
 https://www.csis.org/analysis/breaking-debt-trap-why-spending-smarter-beats-spending-more
 https://www.csis.org/analysis/bright-shiny-objects
 https://www.csis.org/analysis/building-true-trusted-trade-partnership-united-kingdom
+https://www.csis.org/analysis/can-2025-clean-competition-act-cut-global-emissions-and-maintain-us-competitiveness
 https://www.csis.org/analysis/canada-and-european-union-two-new-wins-chinese-exports-west
 https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
 https://www.csis.org/analysis/chinas-third-policy-paper-latin-america-and-caribbean-expanding-influence-and-ambitions
@@ -145,6 +147,7 @@ https://www.csis.org/analysis/states-weekly-december-24-2025
 https://www.csis.org/analysis/states-weekly-december-31-2025
 https://www.csis.org/analysis/states-weekly-january-14-2026
 https://www.csis.org/analysis/states-weekly-january-21-2026
+https://www.csis.org/analysis/states-weekly-january-28-2026
 https://www.csis.org/analysis/states-weekly-january-7-2026
 https://www.csis.org/analysis/strengthening-national-security-resilience-japan
 https://www.csis.org/analysis/targeting-state-ai-laws-undermines-rather-advances-us-technology-leadership
