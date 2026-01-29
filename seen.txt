@@ -22,6 +22,7 @@
 /expert-brief/trump-can-break-maduros-hold-venezuela-without-war
 /expert-brief/trumps-focus-christians-misses-boko-harams-wider-threat-nigeria
 /podcasts/tpi/are-we-ready-trumps-national-security-strategy-rebecca-lissner
+https://amti.csis.org/eyes-on-the-prize-ccg-patrols-prioritize-scarborough-in-2025
 https://amti.csis.org/missiles-over-fleets-how-a2-ad-is-redefining-maritime-power-in-southeast-asia
 https://amti.csis.org/reassessing-the-legal-grounds-of-freedom-of-navigation-in-indonesias-archipelagic-waters
 https://beyondparallel.csis.org/china-begins-relocating-structure-from-pmz
@@ -154,6 +155,7 @@ https://www.csis.org/analysis/targeting-state-ai-laws-undermines-rather-advances
 https://www.csis.org/analysis/tech-edge-living-playbook-americas-technology-long-game
 https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
 https://www.csis.org/analysis/trumps-greenland-ambition-about-us-power-not-alliances
+https://www.csis.org/analysis/understanding-chinas-quest-quantum-advancement
 https://www.csis.org/analysis/understanding-global-south-perspectives-taiwan
 https://www.csis.org/analysis/understanding-saudi-reaction-escalation-yemen
 https://www.csis.org/analysis/united-states-cannot-go-it-alone-venezuela
@@ -161,6 +163,7 @@ https://www.csis.org/analysis/united-states-needs-its-marine-corps-now-more-ever
 https://www.csis.org/analysis/united-states-needs-southwest-drone-wall
 https://www.csis.org/analysis/universities-patents-and-future-us-competitiveness
 https://www.csis.org/analysis/unstable-coins-stablecoin-regulation-market-structure-legislation-and-us-security-risks
+https://www.csis.org/analysis/unwinding-venezuelas-crink-ties-western-hemisphere
 https://www.csis.org/analysis/us-cyber-capabilities-deter-and-disrupt-malign-foreign-activity-targeting-homeland
 https://www.csis.org/analysis/us-india-insight-beyond-optics-indias-new-strategic-commercial-linkages
 https://www.csis.org/analysis/venezuela-critical-minerals-target
@@ -173,6 +176,7 @@ https://www.csis.org/analysis/what-new-national-security-strategy-means-naval-fo
 https://www.csis.org/analysis/when-faith-and-geopolitics-collide
 https://www.csis.org/analysis/when-use-and-not-use-service-government-space-requirements
 https://www.csis.org/analysis/which-us-government-agencies-are-facilitating-trump-administrations-commercial-diplomacy
+https://www.csis.org/analysis/why-army-needs-deception-groups
 https://www.csis.org/analysis/why-did-united-states-conduct-strikes-nigeria
 https://www.csis.org/analysis/why-did-united-states-seize-venezuelan-oil-shipment
 https://www.csis.org/analysis/why-economic-coercion-over-greenland-would-backfire
