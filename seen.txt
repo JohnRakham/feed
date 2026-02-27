@@ -101,6 +101,7 @@ https://www.csis.org/analysis/chinese-energy-investments-southeast-asia
 https://www.csis.org/analysis/civil-takedowns-missing-legal-framework-cyber-disruption
 https://www.csis.org/analysis/costs-and-global-trade-offs-us-military-action-against-venezuela
 https://www.csis.org/analysis/credible-path-political-stability-indispensable-trumps-venezuela-oil-aspirations
+https://www.csis.org/analysis/criminal-kingpin-el-mencho-dead-what-comes-next
 https://www.csis.org/analysis/critical-minerals-ministerial-introduces-new-international-cooperation-strategy
 https://www.csis.org/analysis/csis-european-trilateral-track-2-nuclear-dialogues-8
 https://www.csis.org/analysis/deepening-us-japan-economic-ties-through-workforce-development-cooperation
@@ -132,10 +133,12 @@ https://www.csis.org/analysis/how-much-more-oil-venezuela-and-how-soon
 https://www.csis.org/analysis/how-russia-reshaping-command-and-control-ai-enabled-warfare
 https://www.csis.org/analysis/how-syria-can-succeed-integrating-kurds
 https://www.csis.org/analysis/how-will-trump-administration-respond-violent-protests-iran
+https://www.csis.org/analysis/how-would-iran-respond-us-attack
 https://www.csis.org/analysis/if-trump-strikes-iran-mapping-oil-disruption-scenarios
 https://www.csis.org/analysis/imagery-venezuela-shows-surgical-strike-not-shock-and-awe
 https://www.csis.org/analysis/improving-transparency-and-human-rights-procurement-incentive-based-approach
 https://www.csis.org/analysis/indias-new-ambitions-trade-must-be-paired-domestic-reform
+https://www.csis.org/analysis/industrial-policy-back-and-minerals-are-center
 https://www.csis.org/analysis/japan-poised-early-general-election
 https://www.csis.org/analysis/japanese-energy-companies-step-us-investments
 https://www.csis.org/analysis/japans-present-and-future-national-security-strategy-five-key-challenges-watch
@@ -212,6 +215,7 @@ https://www.csis.org/analysis/united-states-and-iran-brink-whats-stake
 https://www.csis.org/analysis/united-states-cannot-go-it-alone-venezuela
 https://www.csis.org/analysis/united-states-needs-its-marine-corps-now-more-ever
 https://www.csis.org/analysis/united-states-needs-southwest-drone-wall
+https://www.csis.org/analysis/united-states-republic-korea-alliance-strengthening-extended-nuclear-deterrence-shifting
 https://www.csis.org/analysis/universities-patents-and-future-us-competitiveness
 https://www.csis.org/analysis/unstable-coins-stablecoin-regulation-market-structure-legislation-and-us-security-risks
 https://www.csis.org/analysis/unwinding-venezuelas-crink-ties-western-hemisphere
