@@ -40,6 +40,7 @@ https://chinapower.csis.org/china-industrial-robots
 https://chinapower.csis.org/china-pla-military-purges
 https://features.csis.org/chinapower/china-taiwan-series
 https://features.csis.org/hiddenreach/china-space-diplomacy-global-south
+https://features.csis.org/safeguarding-subsea-cables
 https://features.csis.org/securing-africas-future-water-needs
 https://foreignpolicy.com/2025/12/19/trump-western-hemisphere-pivot-nss
 https://foreignpolicy.com/2026/02/28/iran-strikes-israel-us-questions
@@ -86,6 +87,7 @@ https://www.csis.org//analysis/targeting-state-ai-laws-undermines-rather-advance
 https://www.csis.org//analysis/what-does-development-finance-corporation-reauthorization-mean-energy
 https://www.csis.org//analysis/why-did-united-states-seize-venezuelan-oil-shipment
 https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some
+https://www.csis.org/analysis/37-billion-estimated-cost-epic-furys-first-100-hours
 https://www.csis.org/analysis/after-bangladesh-votes-stability-will-be-earned-through-delivery-not-declarations
 https://www.csis.org/analysis/ai-and-global-food-security-focus-early-warning-systems
 https://www.csis.org/analysis/ai-and-grand-strategy-case-restraint
@@ -199,6 +201,7 @@ https://www.csis.org/analysis/satellite-imagery-analysis-chinas-alleged-2020-nuc
 https://www.csis.org/analysis/saudi-arabias-mohammed-bin-salman-got-lot-trump-what-did-united-states-get
 https://www.csis.org/analysis/scotus-ruling-and-korea
 https://www.csis.org/analysis/securing-future-us-biopharmaceutical-industry-most-favored-nation-paradox
+https://www.csis.org/analysis/shield-americas-gathering-and-new-strategy-counter-china-western-hemisphere
 https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security
 https://www.csis.org/analysis/state-play-global-impact-scotus-decision-ieepa-tariffs
 https://www.csis.org/analysis/states-weekly-december-17-2025
