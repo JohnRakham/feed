@@ -117,8 +117,10 @@ https://www.csis.org/analysis/criminal-kingpin-el-mencho-dead-what-comes-next
 https://www.csis.org/analysis/critical-minerals-ministerial-introduces-new-international-cooperation-strategy
 https://www.csis.org/analysis/csis-european-trilateral-track-2-nuclear-dialogues-8
 https://www.csis.org/analysis/deepening-us-japan-economic-ties-through-workforce-development-cooperation
+https://www.csis.org/analysis/deterrence-scale-cross-theater-defense-cooperation-age-precise-mass
 https://www.csis.org/analysis/disaster-risk-financing-fragile-contexts-syria-case-study
 https://www.csis.org/analysis/disaster-risk-financing-real-time-ghana-case-study
+https://www.csis.org/analysis/enter-europes-cyber-deterrence
 https://www.csis.org/analysis/epic-fury-campaign-against-irans-missile-nuclear-infrastructure
 https://www.csis.org/analysis/est-rapid-roundup-how-will-supreme-courts-ieepa-ruling-impact-us-china-tech-competition
 https://www.csis.org/analysis/est-rapid-roundup-what-comes-next-us-trade-policy-after-supreme-courts-ieepa-ruling
@@ -188,6 +190,7 @@ https://www.csis.org/analysis/opting-out-united-states-stop-engaging-more-un-ent
 https://www.csis.org/analysis/outlining-challenges-us-naval-shipbuilding
 https://www.csis.org/analysis/pac-tech-pulse-february-2026
 https://www.csis.org/analysis/pactech-pulse-january-2026
+https://www.csis.org/analysis/pactech-pulse-march-2026
 https://www.csis.org/analysis/panama-kicked-out-hutchison-port-risks-remain
 https://www.csis.org/analysis/partial-look-ahead
 https://www.csis.org/analysis/pentagons-ai-problem-isnt-algorithms-its-evaluation
