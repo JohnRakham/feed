@@ -109,6 +109,7 @@ https://www.csis.org/analysis/canada-and-european-union-two-new-wins-chinese-exp
 https://www.csis.org/analysis/chicagos-emerging-quantum-innovation-cluster
 https://www.csis.org/analysis/chicken-soup-coming-home-roost
 https://www.csis.org/analysis/chinas-carriers-increasingly-venture-beyond-first-island-chain
+https://www.csis.org/analysis/chinas-expanding-interests-latin-america-development-leverage-coercion-and-crime
 https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
 https://www.csis.org/analysis/chinas-solar-industry-upheaval-effects-will-be-global
 https://www.csis.org/analysis/chinas-third-policy-paper-latin-america-and-caribbean-expanding-influence-and-ambitions
@@ -123,7 +124,9 @@ https://www.csis.org/analysis/credible-path-political-stability-indispensable-tr
 https://www.csis.org/analysis/criminal-kingpin-el-mencho-dead-what-comes-next
 https://www.csis.org/analysis/critical-minerals-ministerial-introduces-new-international-cooperation-strategy
 https://www.csis.org/analysis/csis-european-trilateral-track-2-nuclear-dialogues-8
+https://www.csis.org/analysis/data-now-front-line-warfare
 https://www.csis.org/analysis/deepening-us-japan-economic-ties-through-workforce-development-cooperation
+https://www.csis.org/analysis/demystifying-iranian-cyber-operations-us-iran-conflict
 https://www.csis.org/analysis/deterrence-scale-cross-theater-defense-cooperation-age-precise-mass
 https://www.csis.org/analysis/disaster-risk-financing-fragile-contexts-syria-case-study
 https://www.csis.org/analysis/disaster-risk-financing-real-time-ghana-case-study
@@ -294,6 +297,7 @@ https://www.csis.org/analysis/war-iran-threatens-syrias-recovery
 https://www.csis.org/analysis/war-ukraine-and-global-food-security-impacts-four-years-later
 https://www.csis.org/analysis/wars-after-war-why-israel-and-iran-may-keep-fighting
 https://www.csis.org/analysis/weakened-cs3d-still-too-much
+https://www.csis.org/analysis/what-are-implications-iran-conflict-japan
 https://www.csis.org/analysis/what-bella-1-teaches-us-about-targeting-shadow-fleets
 https://www.csis.org/analysis/what-can-trumps-budget-buy-navy-exploring-options-and-trade-offs
 https://www.csis.org/analysis/what-can-united-states-and-israel-accomplish-iran
@@ -301,6 +305,7 @@ https://www.csis.org/analysis/what-does-development-finance-corporation-reauthor
 https://www.csis.org/analysis/what-does-iran-war-mean-global-energy-markets
 https://www.csis.org/analysis/what-does-new-cyber-strategy-really-mean
 https://www.csis.org/analysis/what-does-trump-administrations-new-national-defense-strategy-say-about-china
+https://www.csis.org/analysis/what-israel-trying-accomplish-lebanon
 https://www.csis.org/analysis/what-just-happened-venezuela-and-what-comes-next
 https://www.csis.org/analysis/what-new-national-security-strategy-means-naval-forces
 https://www.csis.org/analysis/what-next-after-suicide-attack-pakistan
