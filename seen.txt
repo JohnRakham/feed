@@ -143,10 +143,12 @@ https://www.csis.org/analysis/epic-fury-campaign-against-irans-missile-nuclear-i
 https://www.csis.org/analysis/est-rapid-roundup-how-will-supreme-courts-ieepa-ruling-impact-us-china-tech-competition
 https://www.csis.org/analysis/est-rapid-roundup-what-comes-next-us-trade-policy-after-supreme-courts-ieepa-ruling
 https://www.csis.org/analysis/europe-needs-asap-program-air-defense
+https://www.csis.org/analysis/europe-needs-bold-economic-action-face-iran-shock
 https://www.csis.org/analysis/everything-connected
 https://www.csis.org/analysis/everything-old-new-again
 https://www.csis.org/analysis/experts-react-nss-and-washingtons-new-approach-western-hemisphere
 https://www.csis.org/analysis/exploring-new-math-puzzle-pjm-intervention
+https://www.csis.org/analysis/federal-statistical-system-age-economic-security
 https://www.csis.org/analysis/fireside-chat-doug-burgum-us-secretary-interior
 https://www.csis.org/analysis/fireside-discussion-jacob-helberg-under-secretary-state-economic-affairs-and-congressman
 https://www.csis.org/analysis/fortifying-guatemala-taiwan-partnership-development
@@ -281,6 +283,7 @@ https://www.csis.org/analysis/tech-edge-living-playbook-americas-technology-long
 https://www.csis.org/analysis/three-truths-about-end-new-start-and-what-it-means-strategic-competition
 https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
 https://www.csis.org/analysis/transnistria-conflict-unfrozen-not-thawed
+https://www.csis.org/analysis/trendlines-march-2026-newsletter
 https://www.csis.org/analysis/trump-discovers-multilateralism
 https://www.csis.org/analysis/trump-may-seize-irans-nuclear-stockpile-why-airstrikes-alone-arent-enough
 https://www.csis.org/analysis/trumps-greenland-ambition-about-us-power-not-alliances
@@ -312,6 +315,7 @@ https://www.csis.org/analysis/usmca-2026-and-economic-security-convergence-techn
 https://www.csis.org/analysis/usmca-review-2026-six-scenarios-north-americas-future
 https://www.csis.org/analysis/venezuela-critical-minerals-target
 https://www.csis.org/analysis/venezuelans-welcome-us-intervention-hope-rapid-democratic-transition-post-maduro
+https://www.csis.org/analysis/visualizing-irans-escalation-strategy
 https://www.csis.org/analysis/war-iran-threatens-syrias-recovery
 https://www.csis.org/analysis/war-ukraine-and-global-food-security-impacts-four-years-later
 https://www.csis.org/analysis/wars-after-war-why-israel-and-iran-may-keep-fighting
