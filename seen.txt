@@ -102,9 +102,11 @@ https://www.csis.org/analysis/ai-and-grand-strategy-case-restraint
 https://www.csis.org/analysis/alberta-separatism-would-harm-both-canada-and-united-states
 https://www.csis.org/analysis/america-first-tech-stack-cannot-be-america-alone
 https://www.csis.org/analysis/are-us-operations-venezuela-blueprint-china-taiwan
+https://www.csis.org/analysis/artemis-and-economics-permanent-moonbase
 https://www.csis.org/analysis/assessing-air-campaign-after-three-weeks-iran-war-numbers
 https://www.csis.org/analysis/assessing-xis-unprecedented-purges-chinas-military-key-developments-and-potential
 https://www.csis.org/analysis/back-play-us-india-nuclear-partnership-finds-new-opening
+https://www.csis.org/analysis/beyond-artemis-why-moon-matters-future-space-operations
 https://www.csis.org/analysis/beyond-climate-policy-economy-wide-repercussions-eliminating-greenhouse-gas-reporting
 https://www.csis.org/analysis/breaking-debt-trap-why-spending-smarter-beats-spending-more
 https://www.csis.org/analysis/bright-shiny-objects
@@ -127,6 +129,7 @@ https://www.csis.org/analysis/cleaning-mess
 https://www.csis.org/analysis/compliance-strategy-rethinking-role-human-rights-national-security-and-countering-violent
 https://www.csis.org/analysis/costs-and-global-trade-offs-us-military-action-against-venezuela
 https://www.csis.org/analysis/could-iran-disrupt-gulf-countries-desalinated-water-supplies
+https://www.csis.org/analysis/cracking-code-lunar-economy
 https://www.csis.org/analysis/credible-path-political-stability-indispensable-trumps-venezuela-oil-aspirations
 https://www.csis.org/analysis/criminal-kingpin-el-mencho-dead-what-comes-next
 https://www.csis.org/analysis/critical-minerals-ministerial-introduces-new-international-cooperation-strategy
@@ -322,6 +325,7 @@ https://www.csis.org/analysis/visualizing-irans-escalation-strategy
 https://www.csis.org/analysis/war-iran-threatens-syrias-recovery
 https://www.csis.org/analysis/war-ukraine-and-global-food-security-impacts-four-years-later
 https://www.csis.org/analysis/wars-after-war-why-israel-and-iran-may-keep-fighting
+https://www.csis.org/analysis/we-are-going-back-moon-stay
 https://www.csis.org/analysis/weakened-cs3d-still-too-much
 https://www.csis.org/analysis/what-are-implications-iran-conflict-japan
 https://www.csis.org/analysis/what-bella-1-teaches-us-about-targeting-shadow-fleets
@@ -348,6 +352,7 @@ https://www.csis.org/analysis/why-did-pakistan-announce-open-war-against-taliban
 https://www.csis.org/analysis/why-did-united-states-conduct-strikes-nigeria
 https://www.csis.org/analysis/why-did-united-states-seize-venezuelan-oil-shipment
 https://www.csis.org/analysis/why-economic-coercion-over-greenland-would-backfire
+https://www.csis.org/analysis/why-go-back-moon
 https://www.csis.org/analysis/why-golden-dome-america-case-administration-should-make
 https://www.csis.org/analysis/why-golden-fleet-will-sail
 https://www.csis.org/analysis/why-greenland-could-spur-europes-digital-awakening
