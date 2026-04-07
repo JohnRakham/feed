@@ -101,6 +101,7 @@ https://www.csis.org/analysis/ai-and-global-food-security-focus-crop-breeding
 https://www.csis.org/analysis/ai-and-global-food-security-focus-early-warning-systems
 https://www.csis.org/analysis/ai-and-grand-strategy-case-restraint
 https://www.csis.org/analysis/alberta-separatism-would-harm-both-canada-and-united-states
+https://www.csis.org/analysis/alluring-potential-integrated-venezuelan-gas-industry
 https://www.csis.org/analysis/america-first-tech-stack-cannot-be-america-alone
 https://www.csis.org/analysis/are-us-operations-venezuela-blueprint-china-taiwan
 https://www.csis.org/analysis/artemis-and-economics-permanent-moonbase
@@ -226,6 +227,7 @@ https://www.csis.org/analysis/new-containment-doctrine-how-united-states-using-t
 https://www.csis.org/analysis/new-era-space-after-new-start
 https://www.csis.org/analysis/new-executive-order-ties-us-critical-minerals-security-global-partnerships
 https://www.csis.org/analysis/new-frontline-technology-modern-warfighting-domain
+https://www.csis.org/analysis/new-rhythms-geo-quantitative-analysis-unusual-behavior-geosynchronous-orbit-chinese
 https://www.csis.org/analysis/new-rift-gulf-and-only-gulf-can-solve-it
 https://www.csis.org/analysis/no-one-not-even-beijing-getting-through-strait-hormuz
 https://www.csis.org/analysis/north-koreas-ties-belarus-limited-not-insignificant
@@ -297,6 +299,7 @@ https://www.csis.org/analysis/takaichi-dominates-japans-lower-house-election
 https://www.csis.org/analysis/takaichi-landslide-shows-limits-chinese-economic-coercion
 https://www.csis.org/analysis/targeting-state-ai-laws-undermines-rather-advances-us-technology-leadership
 https://www.csis.org/analysis/tech-edge-living-playbook-americas-technology-long-game
+https://www.csis.org/analysis/texas-energy-reference-design-stress-testing-load-growth-challenges-ai-century
 https://www.csis.org/analysis/three-truths-about-end-new-start-and-what-it-means-strategic-competition
 https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
 https://www.csis.org/analysis/transnistria-conflict-unfrozen-not-thawed
