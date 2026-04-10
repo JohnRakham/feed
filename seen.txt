@@ -115,6 +115,7 @@ https://www.csis.org/analysis/bright-shiny-objects
 https://www.csis.org/analysis/building-cooperative-frameworks-subsea-cable-security-indo-pacific
 https://www.csis.org/analysis/building-true-trusted-trade-partnership-united-kingdom
 https://www.csis.org/analysis/can-2025-clean-competition-act-cut-global-emissions-and-maintain-us-competitiveness
+https://www.csis.org/analysis/can-gen-z-protests-reshape-governance-africa
 https://www.csis.org/analysis/canada-and-european-union-two-new-wins-chinese-exports-west
 https://www.csis.org/analysis/chicagos-emerging-quantum-innovation-cluster
 https://www.csis.org/analysis/chicken-soup-coming-home-roost
@@ -264,6 +265,7 @@ https://www.csis.org/analysis/questions-ask-after-terrorist-attack
 https://www.csis.org/analysis/redesigning-japans-space-security-ecosystem-stronger-us-japan-alliance
 https://www.csis.org/analysis/regime-change-regime-management-washingtons-venezuela-strategy
 https://www.csis.org/analysis/regional-reverberations-us-and-israeli-strikes-iran
+https://www.csis.org/analysis/reining-export-control-arms-race
 https://www.csis.org/analysis/responding-evolution-and-global-expansion-dprk-it-worker-threat
 https://www.csis.org/analysis/rethinking-comparative-advantage
 https://www.csis.org/analysis/revitalizing-us-pacific-ties-through-kava-diplomacy
@@ -327,6 +329,7 @@ https://www.csis.org/analysis/united-states-needs-southwest-drone-wall
 https://www.csis.org/analysis/united-states-republic-korea-alliance-strengthening-extended-nuclear-deterrence-shifting
 https://www.csis.org/analysis/universities-patents-and-future-us-competitiveness
 https://www.csis.org/analysis/unleashing-americas-mineral-potential-critical-minerals-commodity-supply-chain
+https://www.csis.org/analysis/unpacking-15-trillion-fy-2027-defense-budget-topline
 https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare
 https://www.csis.org/analysis/unstable-coins-stablecoin-regulation-market-structure-legislation-and-us-security-risks
 https://www.csis.org/analysis/unwinding-venezuelas-crink-ties-western-hemisphere
