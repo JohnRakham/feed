@@ -120,6 +120,7 @@ https://www.csis.org/analysis/can-2025-clean-competition-act-cut-global-emission
 https://www.csis.org/analysis/can-gen-z-protests-reshape-governance-africa
 https://www.csis.org/analysis/can-united-states-enable-post-conflict-stability
 https://www.csis.org/analysis/canada-and-european-union-two-new-wins-chinese-exports-west
+https://www.csis.org/analysis/case-sustained-us-presence-moon
 https://www.csis.org/analysis/chicagos-emerging-quantum-innovation-cluster
 https://www.csis.org/analysis/chicken-soup-coming-home-roost
 https://www.csis.org/analysis/chile-new-directions-and-uncertainty-strong-security-partner
@@ -207,6 +208,7 @@ https://www.csis.org/analysis/improving-transparency-and-human-rights-procuremen
 https://www.csis.org/analysis/indias-new-ambitions-trade-must-be-paired-domestic-reform
 https://www.csis.org/analysis/industrial-policy-back-and-minerals-are-center
 https://www.csis.org/analysis/infrastructure-trap-what-beijing-has-learned-moscows-playbook-central-asia
+https://www.csis.org/analysis/international-collaboration-took-united-states-back-moon
 https://www.csis.org/analysis/investing-national-assets-quantum-commercialization
 https://www.csis.org/analysis/iran-conflict-heightens-cyber-threats-us-energy-infrastructure
 https://www.csis.org/analysis/iran-conflict-sending-oil-prices-soaring-what-happens-next
@@ -243,6 +245,7 @@ https://www.csis.org/analysis/new-containment-doctrine-how-united-states-using-t
 https://www.csis.org/analysis/new-era-space-after-new-start
 https://www.csis.org/analysis/new-executive-order-ties-us-critical-minerals-security-global-partnerships
 https://www.csis.org/analysis/new-frontline-technology-modern-warfighting-domain
+https://www.csis.org/analysis/new-generation-looks-moon-perspectives-artemis
 https://www.csis.org/analysis/new-momentum-old-problems-transatlantic-export-control-considerations
 https://www.csis.org/analysis/new-rhythms-geo-quantitative-analysis-unusual-behavior-geosynchronous-orbit-chinese
 https://www.csis.org/analysis/new-rift-gulf-and-only-gulf-can-solve-it
@@ -379,6 +382,7 @@ https://www.csis.org/analysis/what-are-unintended-consequences-us-iran-conflict-
 https://www.csis.org/analysis/what-bella-1-teaches-us-about-targeting-shadow-fleets
 https://www.csis.org/analysis/what-can-trumps-budget-buy-navy-exploring-options-and-trade-offs
 https://www.csis.org/analysis/what-can-united-states-and-israel-accomplish-iran
+https://www.csis.org/analysis/what-comes-next-artemis
 https://www.csis.org/analysis/what-does-development-finance-corporation-reauthorization-mean-energy
 https://www.csis.org/analysis/what-does-iran-war-mean-global-energy-markets
 https://www.csis.org/analysis/what-does-new-cyber-strategy-really-mean
