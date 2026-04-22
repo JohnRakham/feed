@@ -50,6 +50,7 @@ https://features.csis.org/safeguarding-subsea-cables
 https://features.csis.org/securing-africas-future-water-needs
 https://foreignpolicy.com/2025/12/19/trump-western-hemisphere-pivot-nss
 https://foreignpolicy.com/2026/02/28/iran-strikes-israel-us-questions
+https://foreignpolicy.com/2026/04/21/israel-lebanon-hezbollah-trump-iran-cease-fire-talks-beirut
 https://missilethreat.csis.org/country/iran
 https://missilethreat.csis.org/missile-maps-infographics
 https://www.americasquarterly.org/article/a-roadmap-for-venezuelas-future-transition
@@ -185,6 +186,7 @@ https://www.csis.org/analysis/ghost-busters-options-breaking-russias-shadow-flee
 https://www.csis.org/analysis/golden-dome-one-year
 https://www.csis.org/analysis/golden-fleets-battleship-will-never-sail
 https://www.csis.org/analysis/golden-insights-high-quality-products-derived-commercial-earth-observations
+https://www.csis.org/analysis/governing-antarctica-2026
 https://www.csis.org/analysis/government-demand-creator-quantum-industry
 https://www.csis.org/analysis/greenland-rare-earths-and-arctic-security
 https://www.csis.org/analysis/haiti-embarks-another-rocky-political-transition
@@ -342,6 +344,7 @@ https://www.csis.org/analysis/tech-edge-living-playbook-americas-technology-long
 https://www.csis.org/analysis/texas-energy-reference-design-stress-testing-load-growth-challenges-ai-century
 https://www.csis.org/analysis/three-truths-about-end-new-start-and-what-it-means-strategic-competition
 https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
+https://www.csis.org/analysis/toward-mature-ai-economy-policy-priorities-road-ahead
 https://www.csis.org/analysis/transnistria-conflict-unfrozen-not-thawed
 https://www.csis.org/analysis/trendlines-march-2026-newsletter
 https://www.csis.org/analysis/trump-discovers-multilateralism
@@ -426,6 +429,7 @@ https://www.csis.org/analysis/why-golden-fleet-will-sail
 https://www.csis.org/analysis/why-greenland-could-spur-europes-digital-awakening
 https://www.csis.org/analysis/why-losing-local-voices-foreign-aid-diplomacy-mergers-threatens-national-security
 https://www.csis.org/analysis/why-mowing-grass-wont-work-iran
+https://www.csis.org/analysis/why-open-source-intelligence-powerful-weapon-against-fentanyl
 https://www.csis.org/analysis/why-us-mexico-security-cooperation-still-falling-short-washington
 https://www.csis.org/analysis/winning-minerals-race-requires-building-demand-not-just-supply
 https://www.csis.org/analysis/world-trade-organization-ministerial-post-mortem
