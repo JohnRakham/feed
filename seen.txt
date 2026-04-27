@@ -207,6 +207,7 @@ https://www.csis.org/analysis/how-syria-can-succeed-integrating-kurds
 https://www.csis.org/analysis/how-will-cyber-warfare-shape-us-israel-conflict-iran
 https://www.csis.org/analysis/how-will-trump-administration-respond-violent-protests-iran
 https://www.csis.org/analysis/how-would-iran-respond-us-attack
+https://www.csis.org/analysis/hungary-after-orban-hard-road-back-democracy
 https://www.csis.org/analysis/if-compute-new-oil-war-gulf-significantly-raises-stakes
 https://www.csis.org/analysis/if-trump-strikes-iran-mapping-oil-disruption-scenarios
 https://www.csis.org/analysis/imagery-venezuela-shows-surgical-strike-not-shock-and-awe
@@ -223,6 +224,7 @@ https://www.csis.org/analysis/iran-conflict-sending-oil-prices-soaring-what-happ
 https://www.csis.org/analysis/iran-fertilizer-and-food-security-risks-impacts-and-policy-responses
 https://www.csis.org/analysis/iran-relearning-importance-waging-war-not-just-fighting-one
 https://www.csis.org/analysis/iran-war-cost-estimate-update-113-billion-day-6-165-billion-day-12
+https://www.csis.org/analysis/iranian-cyber-threat-us-critical-infrastructure
 https://www.csis.org/analysis/irans-next-move-how-counter-tehrans-multidomain-punishment-campaign
 https://www.csis.org/analysis/irans-real-war-against-global-economy
 https://www.csis.org/analysis/irans-strait-hormuz-gambit-and-limits-us-military-power
@@ -258,6 +260,7 @@ https://www.csis.org/analysis/new-executive-order-ties-us-critical-minerals-secu
 https://www.csis.org/analysis/new-frontline-technology-modern-warfighting-domain
 https://www.csis.org/analysis/new-generation-looks-moon-perspectives-artemis
 https://www.csis.org/analysis/new-momentum-old-problems-transatlantic-export-control-considerations
+https://www.csis.org/analysis/new-phase-us-battery-industry
 https://www.csis.org/analysis/new-rhythms-geo-quantitative-analysis-unusual-behavior-geosynchronous-orbit-chinese
 https://www.csis.org/analysis/new-rift-gulf-and-only-gulf-can-solve-it
 https://www.csis.org/analysis/no-one-not-even-beijing-getting-through-strait-hormuz
