@@ -41,6 +41,7 @@ https://beyondparallel.csis.org/progress-at-the-much-delayed-new-yalu-river-brid
 https://beyondparallel.csis.org/progress-at-the-much-delayed-new-yalu-river-bridge/
 https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete
 https://beyondparallel.csis.org/the-strategic-value-of-china-to-korea
+https://chinapower.csis.org/china-economic-impacts-iran-war
 https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025
 https://chinapower.csis.org/china-industrial-robots
 https://chinapower.csis.org/china-pla-military-purges
@@ -123,6 +124,7 @@ https://www.csis.org/analysis/building-cooperative-frameworks-subsea-cable-secur
 https://www.csis.org/analysis/building-true-trusted-trade-partnership-united-kingdom
 https://www.csis.org/analysis/can-2025-clean-competition-act-cut-global-emissions-and-maintain-us-competitiveness
 https://www.csis.org/analysis/can-gen-z-protests-reshape-governance-africa
+https://www.csis.org/analysis/can-space-be-disrupted-strait-hormuz
 https://www.csis.org/analysis/can-united-states-enable-post-conflict-stability
 https://www.csis.org/analysis/canada-and-european-union-two-new-wins-chinese-exports-west
 https://www.csis.org/analysis/case-sustained-us-presence-moon
@@ -170,6 +172,7 @@ https://www.csis.org/analysis/europe-needs-bold-economic-action-face-iran-shock
 https://www.csis.org/analysis/everything-connected
 https://www.csis.org/analysis/everything-connected-part-ii
 https://www.csis.org/analysis/everything-old-new-again
+https://www.csis.org/analysis/expanding-access-immunizations-americas-commonhealth-live
 https://www.csis.org/analysis/expanding-indias-role-international-semiconductor-ecosystem
 https://www.csis.org/analysis/experts-react-nss-and-washingtons-new-approach-western-hemisphere
 https://www.csis.org/analysis/exploring-new-math-puzzle-pjm-intervention
@@ -362,6 +365,7 @@ https://www.csis.org/analysis/thresholds-survival-resistance-occupied-ukraine
 https://www.csis.org/analysis/toward-mature-ai-economy-policy-priorities-road-ahead
 https://www.csis.org/analysis/trade-or-aid
 https://www.csis.org/analysis/transnistria-conflict-unfrozen-not-thawed
+https://www.csis.org/analysis/trendlines-april-2026-newsletter
 https://www.csis.org/analysis/trendlines-march-2026-newsletter
 https://www.csis.org/analysis/trump-discovers-multilateralism
 https://www.csis.org/analysis/trump-may-seize-irans-nuclear-stockpile-why-airstrikes-alone-arent-enough
